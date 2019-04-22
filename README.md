@@ -1,3 +1,3 @@
-# ccp3an_mca_app_previsoes
+# Entrega Previsões
 
-RepositÃ³rio destinado as aulas de Arquitetura de Software. MsC. Rodrigo Bossini
+Repositório do projeto de Previsões pedido pelo professor Hamilton
